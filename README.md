@@ -67,6 +67,15 @@ Image-Conv-Edge-Detection-Sobel/
 
 ---
 
+
+## Results
+
+<div align="center">
+  <img src="data/output/convolution_analysis.png" alt="Convolution analysis" width="70%"/>
+  <img src="data/output/convolution_result.png" alt="Edge-detection result" width="70%"/>
+</div>
+
+---
 ## License
 
 MIT — free to use, modify and distribute.
