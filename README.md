@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 Image-Conv-Edge-Detection-Sobel
+# 图像卷积与边缘检测 | Image-Conv-Edge-Detection-Sobel
 
 ### Manual & OpenCV-optimized Sobel edge detection.
 
